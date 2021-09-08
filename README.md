@@ -18,7 +18,7 @@ El análisis de las redes sociales abre la posibilidad de analizar data que es a
 
 Todo el material está, y estará por mucho tiempo, disponible en GitHub. 
 
-> ::warning:: Es importante completar la [Sesión 0](#sesión-0) **antes** de iniciar el curso. 
+> :warning: Es importante completar la [Sesión 0](#sesión-0) **antes** de iniciar el curso. 
 
 ## Contenidos del curso
 
