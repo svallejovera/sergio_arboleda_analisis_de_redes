@@ -18,11 +18,13 @@ El análisis de las redes sociales abre la posibilidad de analizar data que es a
 
 Todo el material está, y estará por mucho tiempo, disponible en GitHub. 
 
-## Sesión 0
+## Contenidos del curso
+
+### Sesión 0
 
 La idea es comenzar este curso, como dicen los gringos, *hitting the ground running*. Si estás aquí, seguramente ya tienes ciertos (basiquísimos, básicos, avanzandos, programas en C++) conocimientos de R/R-Studio. Si no los tienes, puedes ver [este tutorial de cómo instalar R y RStudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) y [este tutorial sobre las funcionaes básicas de R y RStudio](https://www.youtube.com/watch?v=BvKETZ6kr9Q). Para el inicio del curso, es importante que tengas ciertos elementos listos, los cuales detallo a continuación. 
 
-### Paquete de R
+#### Paquete de R
 
 Primero, debes instalar los siguiente paquetes en R:
 
@@ -54,21 +56,20 @@ Si esto no funciona, busca ayuda en Google. En mi experiencia, si yo tengo un pr
 
 Finalmente, si estás utilizando **Windows** se recomienda que instales [RTools suite](https://cran.r-project.org/bin/windows/Rtools/), y si estás en **OS X** se recomienda que instales [XCode](https://apps.apple.com/gb/app/xcode/id497799835?mt=12) desde el App Store.
 
-### Twitter API
+#### Twitter API
 
 Vamos a analizar redes sociales por lo tanto necesitamos data de una red social. Qué mejor que Twitter (hay mejores pero también hay peores... en fin, todas sacan lo peor del ser humano). Algunas de las muchas ventajas de la data de Twitter es su abundancia, su detalle y la facilidad de acceder a esta, a diferencia de cualquier otra red social (e.g., Facebook), que tiene toda su información bien guardada (y tu información disponible al mejor postor). 
 
 Para poder acceder a la información de Twitter, es necesario primero solicitar acceso a su API (*application programming interface*). El API no es más que una dirección en línea de alguien que quiere compartir información de manera rápida y sencilla. Hay ciertos APIs que no requieren autentificación. Sin embargo, hay otros APIs, como el de Twitter, que requieren una autentifiación (*token* y *usuario*). La explicación de cómo registrarse al API de Twitter la puede encontrar [aquí](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop/blob/main/install_fest.md). 
 
-## Contenidos del curso
+### Sesión 1
 
-### Sesión 1: Introducción a las redes sociales (Diapositivas)
-
-a.	¿Cómo se forman las redes?
-b.	¿Qué nos dicen las redes?
-c.	Terminología de redes
-d.	¿Qué nos interesa medir en las redes?
-e.	Las redes sociales (Twitter): ¿qué nos pueden decir (y que no)?
+1. Introducción a las redes sociales (Diapositivas)
+  - ¿Cómo se forman las redes?
+  - ¿Qué nos dicen las redes?
+  - Terminología de redes
+  - ¿Qué nos interesa medir en las redes?
+  - Las redes sociales (Twitter): ¿qué nos pueden decir (y que no)?
 
 ### Sesión 2: Obteniendo la data y creando la red (Diapositivas, Código)
 
