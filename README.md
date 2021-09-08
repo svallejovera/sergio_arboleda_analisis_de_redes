@@ -24,7 +24,7 @@ Todo el material está, y estará por mucho tiempo, disponible en GitHub.
 
 La idea es comenzar este curso, como dicen los gringos, *hitting the ground running*. Si estás aquí, seguramente ya tienes ciertos (basiquísimos, básicos, avanzandos, programas en C++) conocimientos de R/R-Studio. Si no los tienes, puedes ver [este tutorial de cómo instalar R y RStudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) y [este tutorial sobre las funcionaes básicas de R y RStudio](https://www.youtube.com/watch?v=BvKETZ6kr9Q). Para el inicio del curso, es importante que tengas ciertos elementos listos, los cuales detallo a continuación. 
 
-#### Paquete de R
+#### Paquetes de R
 
 Primero, debes instalar los siguiente paquetes en R:
 
@@ -65,50 +65,60 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 ### Sesión 1
 
 1. Introducción a las redes sociales (Diapositivas)
-  - ¿Cómo se forman las redes?
-  - ¿Qué nos dicen las redes?
-  - Terminología de redes
-  - ¿Qué nos interesa medir en las redes?
-  - Las redes sociales (Twitter): ¿qué nos pueden decir (y que no)?
+  1. ¿Cómo se forman las redes?
+  2. ¿Qué nos dicen las redes?
+  3. Terminología de redes
+  4. ¿Qué nos interesa medir en las redes?
+  5. Las redes sociales (Twitter): ¿qué nos pueden decir (y que no)?
+2. Lecturas recomendadas
 
-### Sesión 2: Obteniendo la data y creando la red (Diapositivas, Código)
+### Sesión 2
 
-a.	¿Qué tipo de data utilizamos?
-b.	¿Dónde y cómo la conseguimos?
-  a.	Bajar la data de TW
-c.	Estructura de la data
-d.	Agregando información a la red
+1. Obteniendo la data y creando la red (Diapositivas, Código)
+  1. ¿Qué tipo de data utilizamos?
+  2. ¿Dónde y cómo la conseguimos?
+    - Bajar la data de TW
+  3. Estructura de la data
+  4. Agregando información a la red
+2. Ejercicios y lecturas recomendadas
 
-### Sesión 3: Visualizando y describiendo la red (Diapositivas, Código)
 
-a.	Baja información
-b.	Alta información con
-c.	Características de la red 
-  a.	In-degree y out-degree
-  b.	Centralización
-  c.	E/I, homofilia, modularidad
-d.	Detección de comunidades 
-  a.	¿Qué es y para qué sirve?
-  b.	¿Cómo la aplicamos a nuestra data de Twitter?
-    i.	Leading eigenvectors y random-walk
-  c.	¿Qué nos dicen las comunidades sobre nuestras redes?
+### Sesión 3 
+
+1. Visualizando y describiendo la red (Diapositivas, Código)
+  1. Red de baja información
+  2. Red de alta información
+  3. Características de la red 
+    - In-degree y out-degree
+    - Centralización
+    - E/I, homofilia, modularidad
+  4. Detección de comunidades 
+    - ¿Qué es y para qué sirve?
+    - ¿Cómo la aplicamos a nuestra data de Twitter?
+      - Leading eigenvectors y random-walk
+    - ¿Qué nos dicen las comunidades sobre nuestras redes?
+2. Ejercicios y lecturas recomendadas
+
 
 ### Sesión 4
 
 1. Interpretando el cambio (Diapositivas, Código)
-  a.	Redes estáticas y dinámicas
-  b.	Amigos, seguidores y retweets (conexiones direccionadas)
-  c.	Rising stars and rising tides
-  d.	Explorando la topografía 
+  1. Redes estáticas y dinámicas
+  2. Amigos, seguidores y retweets (conexiones direccionadas)
+  3. *Rising stars and rising tides*
+  4. Explorando la topografía 
 2. Ejercicios y lecturas recomendadas
 
-### Sesión 5: Características de las redes sociales (Diapositivas, Código)
+### Sesión 5
 
-a.	¿La era de efectos mínimos?
-b.	Disonancia y resonancia cognitiva en redes
-c.	Experimentos 
-d.	Análisis de texto
-e.	La forma de la viralidad
+1. Características de las redes sociales (Diapositivas, Código)
+  - ¿La era de efectos mínimos?
+  - Disonancia y resonancia cognitiva en redes
+  - Experimentos 
+  - Análisis de texto
+  - La forma de la viralidad
+2. Ejercicios y lecturas recomendadas
+
 
 ## Materiales
 
