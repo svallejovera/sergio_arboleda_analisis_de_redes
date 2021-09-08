@@ -18,12 +18,6 @@ El análisis de las redes sociales abre la posibilidad de analizar data que es a
 
 Todo el material está, y estará por mucho tiempo, disponible en GitHub. 
 
-  - [Instructions to install the required software](#instructions-to-install-the-required-software)
-    - [quanteda (for R)](#quanteda-for-r)
-    - [spaCyR (for R)](#spacyr-for-r)
-    - [Extra packages](#extra-packages)
-  - [Some final words](#some-final-words)
-  
 ## Sesión 0
 
 La idea es comenzar este curso, como dicen los gringos, *hitting the ground running*. Si estás aquí, seguramente ya tienes ciertos (basiquísimos, básicos, avanzandos, programas en C++) conocimientos de R/R-Studio. Si no los tienes, puedes ver [este tutorial de cómo instalar R y RStudio](https://www.youtube.com/watch?v=TFGYlKvQEQ4) y [este tutorial sobre las funcionaes básicas de R y RStudio](https://www.youtube.com/watch?v=BvKETZ6kr9Q). Para el inicio del curso, es importante que tengas ciertos elementos listos, los cuales detallo a continuación. 
