@@ -1,6 +1,6 @@
 # Curso de Análisis de Redes Sociales (en RStudio)
 
-Este curso está diseñado para profesionales y estudiantes de las ciencias sociales, interesados en el uso de métodos cuantitativos y computacionales para el análisis de redes (sociales). El objetivo es dar una aproximación sistemática a los fundamentos teóricos y empíricos del análisis de redes para quienes quieren participar de la, cada vez más importante, relación entre la ciencia de datos y las ciencias sociales. 
+Este curso está diseñado para profesionales y estudiantes de las ciencias sociales, interesadxs en el uso de métodos cuantitativos y computacionales para el análisis de redes (sociales). El objetivo es dar una aproximación sistemática a los fundamentos teóricos y empíricos del análisis de redes para quienes quieren participar de la relación cada vez más importante entre la ciencia de datos y las ciencias sociales. 
 
 El seminario está estructurado en 5 sesiones de 3 horas. Cada sesión incluirá tanto una parte teórica como práctica, complementada con ejercicios para reforzar el material en casa. La plataforma principal que utilizaremos en este curso será R/R-Studio. 
 
