@@ -70,6 +70,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
   3. Terminología de redes
   4. ¿Qué nos interesa medir en las redes?
   5. Las redes sociales (Twitter): ¿qué nos pueden decir (y que no)?
+
 2. Lecturas recomendadas
 
 ### Sesión 2
@@ -80,6 +81,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
     - Bajar la data de TW
   3. Estructura de la data
   4. Agregando información a la red
+
 2. Ejercicios y lecturas recomendadas
 
 
@@ -97,6 +99,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
     - ¿Cómo la aplicamos a nuestra data de Twitter?
       - Leading eigenvectors y random-walk
     - ¿Qué nos dicen las comunidades sobre nuestras redes?
+
 2. Ejercicios y lecturas recomendadas
 
 
@@ -107,6 +110,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
   2. Amigos, seguidores y retweets (conexiones direccionadas)
   3. *Rising stars and rising tides*
   4. Explorando la topografía 
+
 2. Ejercicios y lecturas recomendadas
 
 ### Sesión 5
@@ -117,6 +121,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
   - Experimentos 
   - Análisis de texto
   - La forma de la viralidad
+
 2. Ejercicios y lecturas recomendadas
 
 
