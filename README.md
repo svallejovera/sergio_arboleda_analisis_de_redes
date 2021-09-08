@@ -65,22 +65,22 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 ### Sesión 1
 
 1. Introducción a las redes sociales (Diapositivas)
-  1. ¿Cómo se forman las redes?
-  2. ¿Qué nos dicen las redes?
-  3. Terminología de redes
-  4. ¿Qué nos interesa medir en las redes?
-  5. Las redes sociales (Twitter): ¿qué nos pueden decir (y que no)?
+    1. ¿Cómo se forman las redes?
+    2. ¿Qué nos dicen las redes?
+    3. Terminología de redes
+    4. ¿Qué nos interesa medir en las redes?
+    5. Las redes sociales (Twitter): ¿qué nos pueden decir (y que no)?
 
 2. Lecturas recomendadas
 
 ### Sesión 2
 
 1. Obteniendo la data y creando la red (Diapositivas, Código)
-  1. ¿Qué tipo de data utilizamos?
-  2. ¿Dónde y cómo la conseguimos?
-    - Bajar la data de TW
-  3. Estructura de la data
-  4. Agregando información a la red
+    1. ¿Qué tipo de data utilizamos?
+    2. ¿Dónde y cómo la conseguimos?
+        - Bajar la data de TW
+    3. Estructura de la data
+    4. Agregando información a la red
 
 2. Ejercicios y lecturas recomendadas
 
@@ -88,17 +88,17 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 ### Sesión 3 
 
 1. Visualizando y describiendo la red (Diapositivas, Código)
-  1. Red de baja información
-  2. Red de alta información
-  3. Características de la red 
-    - In-degree y out-degree
-    - Centralización
-    - E/I, homofilia, modularidad
-  4. Detección de comunidades 
-    - ¿Qué es y para qué sirve?
-    - ¿Cómo la aplicamos a nuestra data de Twitter?
-      - Leading eigenvectors y random-walk
-    - ¿Qué nos dicen las comunidades sobre nuestras redes?
+    1. Red de baja información
+    2. Red de alta información
+    3. Características de la red 
+        - In-degree y out-degree
+        - Centralización
+        - E/I, homofilia, modularidad
+    4. Detección de comunidades 
+        - ¿Qué es y para qué sirve?
+        - ¿Cómo la aplicamos a nuestra data de Twitter?
+            - Leading eigenvectors y random-walk
+        - ¿Qué nos dicen las comunidades sobre nuestras redes?
 
 2. Ejercicios y lecturas recomendadas
 
@@ -106,21 +106,21 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 ### Sesión 4
 
 1. Interpretando el cambio (Diapositivas, Código)
-  1. Redes estáticas y dinámicas
-  2. Amigos, seguidores y retweets (conexiones direccionadas)
-  3. *Rising stars and rising tides*
-  4. Explorando la topografía 
+    1. Redes estáticas y dinámicas
+    2. Amigos, seguidores y retweets (conexiones direccionadas)
+    3. *Rising stars and rising tides*
+    4. Explorando la topografía 
 
 2. Ejercicios y lecturas recomendadas
 
 ### Sesión 5
 
 1. Características de las redes sociales (Diapositivas, Código)
-  - ¿La era de efectos mínimos?
-  - Disonancia y resonancia cognitiva en redes
-  - Experimentos 
-  - Análisis de texto
-  - La forma de la viralidad
+    - ¿La era de efectos mínimos?
+    - Disonancia y resonancia cognitiva en redes
+    - Experimentos 
+    - Análisis de texto
+    - La forma de la viralidad
 
 2. Ejercicios y lecturas recomendadas
 
