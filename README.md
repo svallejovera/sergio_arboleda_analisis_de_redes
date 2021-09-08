@@ -2,7 +2,7 @@
 
 Este curso está diseñado para profesionales y estudiantes de las ciencias sociales, interesados en el uso de métodos cuantitativos y computacionales para el análisis de redes (sociales). El objetivo es dar una aproximación sistemática a los fundamentos teóricos y empíricos del análisis de redes para quienes quieren participar de la, cada vez más importante, relación entre la ciencia de datos y las ciencias sociales. 
 
-El seminario está estructurado en 5 sesiones de 3 horas. Cada sesión incluirá tanto una parte teórica como práctica, complementada con ejercicios para reforzar en casa. La plataforma principal que utilizaremos en este curso será R/R-Studio. 
+El seminario está estructurado en 5 sesiones de 3 horas. Cada sesión incluirá tanto una parte teórica como práctica, complementada con ejercicios para reforzar el material en casa. La plataforma principal que utilizaremos en este curso será R/R-Studio. 
 
 - Fecha: 13 de septiembre a 17 de septiembre, 2021
 
@@ -17,6 +17,8 @@ Al finalizar el curso, lxs participantes tendrán una idea clara del *pipeline* 
 El análisis de las redes sociales abre la posibilidad de analizar data que es abundante, detallada, y fácilmente disponible. A la gente (y a los políticos) le encanta tuitear, retuittear, seguir, y ser seguido. Y a nosotros nos encanta la data. A pesar de depender fuertemente de un computador, el análisis de las redes sociales es intuitivo y, seamos honestos, a todo el mundo le gusta una imagen con color bonitos.<sup id="a1">[1](#f1)</sup> 
 
 Todo el material está, y estará por mucho tiempo, disponible en GitHub. 
+
+> :warning: Es importante completar la [Sesión 0](#sesión-0) **antes** de iniciar el curso. 
 
 ## Contenidos del curso
 
@@ -116,11 +118,11 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 ### Sesión 5
 
 1. Características de las redes sociales (Diapositivas, Código)
-    - ¿La era de efectos mínimos?
-    - Disonancia y resonancia cognitiva en redes
-    - Experimentos 
-    - Análisis de texto
-    - La forma de la viralidad
+    1. ¿La era de efectos mínimos?
+    2. Disonancia y resonancia cognitiva en redes
+    3. Experimentos 
+    4. Análisis de texto
+    5. La forma de la viralidad
 
 2. Ejercicios y lecturas recomendadas
 
