@@ -32,9 +32,11 @@ Primero, debes instalar los siguiente paquetes en R:
 
 - igraph
 - tidyverse
+- tidytext
 - httr
 - rjson
 - rtweet
+- viridis
 
 Puedes instalarlos desde RStudio, dando click a Tools > Install Package, o ejecutando estos comandos: 
 
