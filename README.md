@@ -62,7 +62,7 @@ Finalmente, si estás utilizando **Windows** se recomienda que instales [RTools 
 
 Vamos a analizar redes sociales por lo tanto necesitamos data de una red social. Qué mejor que Twitter (hay mejores pero también hay peores... en fin, todas sacan lo peor del ser humano). Algunas de las muchas ventajas de la data de Twitter es su abundancia, su detalle y la facilidad de acceder a esta, a diferencia de cualquier otra red social (e.g., Facebook), que tiene toda su información bien guardada (y tu información disponible al mejor postor). 
 
-Para poder acceder a la información de Twitter, es necesario primero solicitar acceso a su API (*application programming interface*). El API no es más que una dirección en línea de alguien que quiere compartir información de manera rápida y sencilla. Hay ciertos APIs que no requieren autentificación. Sin embargo, hay otros APIs, como el de Twitter, que requieren una autentifiación (*token* y *usuario*). La explicación de cómo registrarse al API de Twitter la puede encontrar [aquí](https://github.com/TiagoVentura/ventura_calvo_flacso_workshop/blob/main/install_fest.md). 
+Para poder acceder a la información de Twitter, es necesario primero solicitar acceso a su API (*application programming interface*). El API no es más que una dirección en línea de alguien que quiere compartir información de manera rápida y sencilla. Hay ciertos APIs que no requieren autentificación. Sin embargo, hay otros APIs, como el de Twitter, que requieren una autentifiación (*token* y *usuario*). La explicación de cómo registrarse al API de Twitter la puede encontrar [aquí](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/tw_api.md). 
 
 ### Sesión 1
 
