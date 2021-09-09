@@ -6,7 +6,7 @@ El seminario está estructurado en 5 sesiones de 3 horas. Cada sesión incluirá
 
 - Fecha: 13 de septiembre a 17 de septiembre, 2021
 
-- Horario: 8:00AM - 11:00AM
+- Horario: 6:00PM - 9:00PM
 
 ## Introducción
 
