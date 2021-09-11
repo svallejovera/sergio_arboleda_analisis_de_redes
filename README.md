@@ -68,7 +68,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 
 ### Sesión 1
 
-1. Introducción a las redes sociales ([Diapositivas](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/Intro%20a%20las%20redes%20sociales%20-%20sesion%201.pdf))
+1. Introducción a las redes sociales ([Diapositivas I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/Intro%20a%20las%20redes%20sociales%20-%20sesion%201.pdf), [Diapositivas II](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/pipeline%20-%20sesion%201_2.pdf))
     1. ¿Cómo se forman las redes?
     2. ¿Qué nos dicen las redes?
     3. Terminología de redes
