@@ -76,7 +76,8 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
     5. Las redes sociales (Twitter): ¿qué nos pueden decir (y qué no)?
 
 2. Lecturas recomendadas
-    - 
+    - Barabási (2014) - Network Science (link)
+    
 ### Sesión 2
 
 1. Obteniendo la data y creando la red (Diapositivas, Código)
