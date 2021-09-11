@@ -76,7 +76,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
     5. Las redes sociales (Twitter): ¿qué nos pueden decir (y qué no)?
 
 2. Lecturas recomendadas
-    - Barabási (2014) - Network Science ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/lectura%20sesion%201.pdf))
+    - Barabási (2014) - Network Science, Ch. 1 ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/lectura%20sesion%201.pdf))
     
 ### Sesión 2
 
