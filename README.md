@@ -75,13 +75,15 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
     4. ¿Qué nos interesa medir en las redes?
     5. Las redes sociales (Twitter): ¿qué nos pueden decir (y qué no)?
 
-2. Lecturas recomendadas
+2. El Pipeline ([Diapositivas I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/pipeline%20-%20sesion%201_2.pdf))
+
+3. Lecturas recomendadas
     - Barabási (2014) - Network Science, Ch. 1 ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/lectura%20sesion%201.pdf))
     - Calvo y Aruguete (2020) - Fake news, trolls y otros encantos: cómo funcionan (para bien y para mal) las redes, Intro ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/lectura%20sesion%201b.pdf))
     
 ### Sesión 2
 
-1. Obteniendo la data y creando la red (Diapositivas, Código)
+1. Obteniendo la data y creando la red ([Diapositivas I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_1.pdf), [Código I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_1%20code.R), [Diapositivas II](), [Código II]())
     1. ¿Qué tipo de data utilizamos?
     2. ¿Dónde y cómo la conseguimos?
         - Bajar la data de TW
