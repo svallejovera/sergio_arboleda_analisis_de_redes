@@ -77,6 +77,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 
 2. Lecturas recomendadas
     - Barabási (2014) - Network Science, Ch. 1 ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/lectura%20sesion%201.pdf))
+    - Calvo y Aruguete (2020) - Fake news, trolls y otros encantos: cómo funcionan (para bien y para mal) las redes, Intro ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/lectura%20sesion%201b.pdf))
     
 ### Sesión 2
 
