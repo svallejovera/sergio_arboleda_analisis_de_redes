@@ -24,6 +24,6 @@ Una vez que tu cuenta de desarrollador esté aprovada, puede ingresar de nuevo y
 
 ![](credentials_blurred.png)
 
-Estas son tus credenciales. No las comparatas con nadie. En el curso aprenderemos como utilizar estas credenciales y bajarnos borbotones de tweets. 
+Estas son tus credenciales. No las comparatas con nadie. En el curso aprenderemos como utilizar estas credenciales y bajarnos borbotones de tweets. Una vez que estés más familiarizado con la plataforma y quieras desarrollar una proyecto de investigación más amplio, sugiero que apliques para una cuenta académica utilizando el API_V2. Las instrucciones para aplicar a este espacio las puedes encontrar [aquí](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research). 
   
                 
