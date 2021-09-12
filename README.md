@@ -83,12 +83,13 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
     
 ### Sesión 2
 
-1. Obteniendo la data y creando la red ([Diapositivas I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_1.pdf), [Código I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_1%20code.R), [Diapositivas II](), [Código II]())
+1. Obteniendo la data y creando la red 
     1. ¿Qué tipo de data utilizamos?
-    2. ¿Dónde y cómo la conseguimos?
+    2. ¿Dónde y cómo la conseguimos? ([Diapositivas I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_1.pdf), [Código I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_1%20code.R))
         - Bajar la data de TW
-    3. Estructura de la data
-    4. Agregando información a la red
+    3. Estructura de la data ([Diapositivas II](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2.pdf), [Código II](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2%20code.R))
+    4. Descripción de la data ([Diapositivas III](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2.pdf), [Código III](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2%20code.R))
+    5. Agregando información a la red
 
 2. Ejercicios y lecturas recomendadas
 
