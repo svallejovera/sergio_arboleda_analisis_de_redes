@@ -68,7 +68,8 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 
 ### Sesión 1
 
-1. Introducción a las redes sociales ([Diapositivas I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/Intro%20a%20las%20redes%20sociales%20-%20sesion%201.pdf))
+1. Introducción al curso ([Diapositivas 0](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/introduccion.pdf))
+2. Introducción a las redes sociales ([Diapositivas I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/Intro%20a%20las%20redes%20sociales%20-%20sesion%201.pdf))
     1. ¿Cómo se forman las redes?
     2. ¿Qué nos dicen las redes?
     3. Terminología de redes
@@ -89,7 +90,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
         - Bajar la data de TW
     3. Estructura de la data ([Diapositivas II](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2.pdf), [Código II](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2%20code.R))
     4. Descripción de la data ([Diapositivas III](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2.pdf), [Código III](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_2%20code.R))
-    5. Agregando información a la red
+    5. Agregando información a la red ([Diapositivas IV](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_3.pdf), [Código IV](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_3%20code.R),[Diapositivas V](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_4.pdf), [Código V](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_4%20code.R))
 
 2. Ejercicios y lecturas recomendadas
 
