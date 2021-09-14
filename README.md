@@ -66,6 +66,10 @@ Vamos a analizar redes sociales por lo tanto necesitamos data de una red social.
 
 Para poder acceder a la información de Twitter, es necesario primero solicitar acceso a su API (*Application Programming Interface*). El API no es más que una dirección en línea de alguien que quiere compartir información de manera rápida y sencilla. Hay ciertos APIs que no requieren autentificación. Sin embargo, hay otros APIs, como el de Twitter, que requieren una autentifiación (*token* y *usuario*). La explicación de cómo registrarse al API de Twitter la puede encontrar [aquí](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/tw_api.md). 
 
+#### Data para el curso
+
+La data que vamos a estar utilizando en este curso la puede encontrar [aquí](https://uofh-my.sharepoint.com/:u:/g/personal/svallej2_cougarnet_uh_edu/ER7eIS59039LgUYnZkFH3RMBJvsxXKL1X_l62qnhazJIgg?e=mWuy2x). 
+
 ### Sesión 1
 
 1. Introducción al curso ([Diapositivas 0](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/introduccion.pdf))
