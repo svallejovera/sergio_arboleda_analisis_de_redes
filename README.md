@@ -97,7 +97,8 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
     5. Agregando información a la red ([Diapositivas IV](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_3.pdf), [Código IV](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_3%20code.R), [Diapositivas V](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_4.pdf), [Código V](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_4%20code.R))
 
 2. Ejercicios y lecturas recomendadas
-
+    - Ejercicios [link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/ejercicios%20sesion%202.pdf)
+    - Ognyanova (2016) - Network Analysis and Visualization with R and igraph, [link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/NetSciX_2016_Workshop.pdf)
 
 ### Sesión 3 
 
