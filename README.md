@@ -103,17 +103,15 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
 ### Sesión 3 
 
 1. Visualizando y describiendo la red (Diapositivas, Código)
-    1. Red de baja información
-    2. Red de alta información
     3. Características de la red 
         - In-degree y out-degree
         - Centralización
-        - E/I, homofilia, modularidad
     4. Detección de comunidades 
         - ¿Qué es y para qué sirve?
         - ¿Cómo la aplicamos a nuestra data de Twitter?
             - Leading eigenvectors y random-walk
         - ¿Qué nos dicen las comunidades sobre nuestras redes?
+    3. Visualizando la red
 
 2. Ejercicios y lecturas recomendadas
 
@@ -121,7 +119,7 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
 ### Sesión 4
 
 1. Interpretando el cambio (Diapositivas, Código)
-    1. Redes estáticas y dinámicas
+    1. E/I, homofilia, modularidad
     2. Amigos, seguidores y retweets (conexiones direccionadas)
     3. *Rising stars and rising tides*
     4. Explorando la topografía 
