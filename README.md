@@ -97,16 +97,16 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
     5. Agregando información a la red ([Diapositivas IV](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_4.pdf), [Código IV](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_44%20code.R), [Diapositivas V](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_4.pdf), [Código V](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/data%20de%20tw%20-%20sesion%202_4%20code.R))
 
 2. Ejercicios y lecturas recomendadas
-    - Ejercicios [link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/ejercicios%20sesion%202.pdf)
+    - Ejercicios, [link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/ejercicios%20sesion%202.pdf)
     - Ognyanova (2016) - Network Analysis and Visualization with R and igraph, [link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/NetSciX_2016_Workshop.pdf)
 
 ### Sesión 3 
 
-1. Visualizando y describiendo la red (Diapositivas, Código)
-    1. Características de la red 
+1. Visualizando y describiendo la red 
+    1. Características de la red ([Diapositivas](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/caracteristicas%20de%20tw%20-%20sesion%203_1.pdf), [Código](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/caracteristicas%20de%20tw%20-%20sesion%203_1%20code.R))
         - In-degree y out-degree
         - Centralización
-    2. Detección de comunidades 
+    2. Detección de comunidades ([Diapositivas](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/comunidades%20de%20tw%20-%20sesion%203_2.pdf), [Código](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/comunidades%20de%20tw%20-%20sesion%203_2%20y%20sesion%203_3%20code.R))
         - ¿Qué es y para qué sirve?
         - ¿Cómo la aplicamos a nuestra data de Twitter?
             - Leading eigenvectors y random-walk
@@ -114,6 +114,8 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
     3. Visualizando la red
 
 2. Ejercicios y lecturas recomendadas
+    - Ejercicios, [link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/ejercicios%20sesion%203.pdf).
+    - Calvo y Aruguete (2020) - Fake news, trolls y otros encantos: cómo funcionan (para bien y para mal) las redes, Cap 6 ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/Fake%20news%2C%20trolls%20y%20otros%20encantos%20by%20Ernesto%20Calvo%2C%20Natalia%20Aruguete%20Cap%206.pdf))
 
 
 ### Sesión 4
