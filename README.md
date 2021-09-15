@@ -103,10 +103,10 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
 ### Sesión 3 
 
 1. Visualizando y describiendo la red (Diapositivas, Código)
-    3. Características de la red 
+    1. Características de la red 
         - In-degree y out-degree
         - Centralización
-    4. Detección de comunidades 
+    2. Detección de comunidades 
         - ¿Qué es y para qué sirve?
         - ¿Cómo la aplicamos a nuestra data de Twitter?
             - Leading eigenvectors y random-walk
