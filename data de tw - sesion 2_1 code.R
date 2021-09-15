@@ -7,7 +7,7 @@
 # install.packages("rtweet") # solamente una vez
 
 library(rtweet) # rtweet nos permite acceder a la data de TW
-library(tiAdyverse) # tidyverse nos ayuda con la minupulación de datos
+library(tidyverse) # tidyverse nos ayuda con la minupulación de datos
 
 ## Tus credenciales> ----
 # Para acceder al API, TW requiere que te registres y con eso obtener tus credenciales. 
