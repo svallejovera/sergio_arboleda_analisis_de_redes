@@ -111,7 +111,7 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
         - ¿Cómo la aplicamos a nuestra data de Twitter?
             - Leading eigenvectors y random-walk
         - ¿Qué nos dicen las comunidades sobre nuestras redes?
-    3. Visualizando la red
+    3. Visualizando la red ([Diapositivas](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/comunidades%20de%20tw%20-%20sesion%203_3.pdf), [Código](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/comunidades%20de%20tw%20-%20sesion%203_2%20y%20sesion%203_3%20code.R), 
 
 2. Ejercicios y lecturas recomendadas
     - Ejercicios, [link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/ejercicios%20sesion%203.pdf).
@@ -122,7 +122,7 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
 
 1. Interpretando el cambio (Diapositivas, Código)
     1. E/I, homofilia, modularidad
-    2. Amigos, seguidores y retweets (conexiones direccionadas)
+    2. Activación de la red
     3. *Rising stars and rising tides*
     4. Explorando la topografía 
 
