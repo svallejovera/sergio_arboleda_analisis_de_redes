@@ -120,11 +120,11 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
 
 ### Sesión 4
 
-1. Interpretando el cambio (Diapositivas, Código)
+1. Analizando las comunidades (Diapositivas, Código)
     1. E/I, homofilia, modularidad
-    2. Activación de la red
-    3. *Rising stars and rising tides*
-    4. Explorando la topografía 
+    2. Dimensiones de la red
+    3. Activación de la red
+    5. Explorando la topografía 
 
 2. Ejercicios y lecturas recomendadas
 
@@ -135,7 +135,8 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
     2. Disonancia y resonancia cognitiva en redes
     3. Experimentos 
     4. Análisis de texto
-    5. La forma de la viralidad
+    5. *Rising stars and rising tides*
+    6. La forma de la viralidad
 
 2. Ejercicios y lecturas recomendadas
 
