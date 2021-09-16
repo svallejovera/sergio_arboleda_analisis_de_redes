@@ -68,7 +68,7 @@ Para poder acceder a la información de Twitter, es necesario primero solicitar 
 
 #### Data para el curso
 
-La data que vamos a estar utilizando en este curso la puede encontrar [aquí](https://uofh-my.sharepoint.com/:u:/g/personal/svallej2_cougarnet_uh_edu/ER7eIS59039LgUYnZkFH3RMBJvsxXKL1X_l62qnhazJIgg?e=mWuy2x). 
+La data que vamos a estar utilizando en este curso la puede encontrar [aquí](https://uofh-my.sharepoint.com/:f:/g/personal/svallej2_cougarnet_uh_edu/Ep7WBEAoteZGlOuejzL_rREBr660cUKG0GuBDh5qO363gg?e=lqBRCU). 
 
 ### Sesión 1
 
