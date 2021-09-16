@@ -120,7 +120,7 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
 
 ### Sesión 4
 
-1. Analizando las comunidades (Diapositivas, Código)
+1. Analizando las comunidades ([Diapositivas](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/analsis%20de%20tw%20-%20sesion%204_1%20y%20sesion%204_2.pdf), [Código I](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/analisis%20de%20tw%20-%20sesion%204_1%20code.R), [Código II](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/analisis%20de%20tw%20-%20sesion%204_2%20code.R))
     1. E/I, homofilia, modularidad
     2. Dimensiones de la red
     3. Activación de la red
