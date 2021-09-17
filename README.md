@@ -127,10 +127,11 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
     5. Explorando la topografía 
 
 2. Ejercicios y lecturas recomendadas
+    - Calvo y Aruguete (2020) - Fake news, trolls y otros encantos: cómo funcionan (para bien y para mal) las redes, Cap7 ([link](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/Fake%20news%2C%20trolls%20y%20otros%20encantos%20by%20Ernesto%20Calvo%2C%20Natalia%20Aruguete%20Cap%207.pdf))
 
 ### Sesión 5
 
-1. Características de las redes sociales (Diapositivas, Código)
+1. Características de las redes sociales ([Diapositivas](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/analsis%20de%20tw%20-%20sesion%205_1.pdf), [Código](https://github.com/svallejovera/sergio_arboleda_analisis_de_redes/blob/main/analisis%20de%20tw%20-%20sesion%205_1%20code.R))
     1. ¿La era de efectos mínimos?
     2. Disonancia y resonancia cognitiva en redes
     3. Experimentos 
@@ -139,6 +140,10 @@ La data que vamos a estar utilizando en este curso la puede encontrar [aquí](ht
     6. La forma de la viralidad
 
 2. Ejercicios y lecturas recomendadas
+    - Banks, Antoine, et al. "# polarizedfeeds: Three experiments on polarization, framing, and social media." The International Journal of Press/Politics 26.3 (2021): 609-634. [link](https://gvpt.umd.edu/sites/gvpt.umd.edu/files/pubs/%23PolarizedFeeds.pdf)
+    - Aruguete, Natalia, and Ernesto Calvo. "Time to# protest: Selective exposure, cascading activation, and framing in social media." Journal of communication 68.3 (2018): 480-502. [link](https://academic.oup.com/joc/article/68/3/480/4972616?casa_token=n8FF_NPbaokAAAAA:9A57qyk1S6yg6cJZo3BrX4YTAiMLKVhGDf_HyPv_os4UD1-RaxsjrO3bjpaIfhkKwtRUZpDlJVSbPQ)
+    - Lin, Yu-Ru, et al. "Rising tides or rising stars?: Dynamics of shared attention on Twitter during media events." PloS one 9.5 (2014): e94093. [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094093)
+    - Vallejo Vera, Sebastian. "Rage Within the Machine: Activation of Racist Content in Social Media." Working Paper 8 iLCSS (2021). [link](https://ilcss.umd.edu/static/6d7c40d89a13fef276f407e9ed1a2520/rage.pdf)
 
 
 ## Materiales
